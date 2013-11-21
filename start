@@ -1,7 +1,23 @@
 <html>
 <head>
 <title>Regency TR-1</title>
+<style>
+
+body{
+  background-color: #00BFFF;
+}
+  
+.start{
+  margin: center center;
+  border: ridge 4px;
+  font-family: serif;
+  font-size: 45px;
+}
+   
+</style>
 </head>
+
 <body>
+
 </body>
 </html>
