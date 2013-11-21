@@ -1,1 +1,13 @@
-body
+body{
+  background-color: #1E90FF;
+  border: dashed 50px;
+  border-color: #191970;
+}
+  
+.start {
+  margin: 35% 28%;
+  font-family: serif;
+  font-size: 250px;
+  color: #9400D3;
+  
+}
