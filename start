@@ -8,7 +8,7 @@ body{
 }
   
 .start{
-  margin: center center;
+  margin: center center center center;
   border: ridge 4px;
   font-family: serif;
   font-size: 45px;
@@ -18,8 +18,6 @@ body{
 </head>
 
 <body>
-<div class="start">
-START
-</div>
+<div class="start">START</div>
 </body>
 </html>
