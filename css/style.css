@@ -11,3 +11,18 @@ body{
   color: #9400D3;
   
 }
+
+.start a{
+  font-family: serif;
+  color: #9400D3;
+  text-decoration: none;
+  
+}
+
+.start a:hover{
+  font-family: monospace;
+  font-size: 274px;
+  color: #00FA9A;
+  text-decoration: line-through;
+  
+}
