@@ -1,27 +1,32 @@
 body{
   background-color: #1E90FF;
-  border: dashed 50px;
+  border: dashed 25px;
   border-color: #191970;
+}
+
+.title{ 
+  font-family: Courier;
+  font-size: 60px;
 }
   
 .start {
-  margin: 35% 28%;
-  font-family: serif;
+  margin: 30% 17%;
+  font-family: sans-serif;
   font-size: 250px;
   color: #9400D3;
   
 }
 
 .start a{
-  font-family: serif;
+  font-family: sans-serif;
   color: #9400D3;
   text-decoration: none;
   
 }
 
 .start a:hover{
-  font-family: monospace;
-  font-size: 274px;
+  font-family: sans-serif;
+  font-size: 250px;
   color: #00FA9A;
   text-decoration: line-through;
   
